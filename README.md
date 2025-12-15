@@ -17,6 +17,7 @@ The analysis focuses on data cleaning, statistical exploration, visualization, c
 
 ## 📂 Dataset Information
 - **Dataset Name:** Wine Quality Dataset
+- **Link:** https://www.kaggle.com/datasets/brendan45774/wine-quality
 - **File:** `WineQT.csv`
 - **Target Variable:** `quality`
 
